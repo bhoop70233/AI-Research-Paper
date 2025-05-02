@@ -7,4 +7,4 @@
 | 2.  | AI & Data Science Paper summary  | [✍️](https://github.com/bhoop70233/5-Top-AI-Data-science-research-summaries-here)  |
 |3.|hands-on Ai paper|[]|
 |4.|Computer Vision and Pattern Recognition|[✍️](https://github.com/bhoop70233/Computer-Vision-and-Pattern-Recognition)|
-5. | LLM  |[✍️](https://github.com/bhoop70233/LLM) |
+| 5. | LLM  |[✍️](https://github.com/bhoop70233/LLM) |
